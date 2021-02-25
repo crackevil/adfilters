@@ -1,0 +1,9 @@
+return "http://www.gwdang.com/union/go/?site_id=3&target_url=
+var t = "union=" + encodeURIComponent(a.union) + "&url=" + encodeURIComponent(r.url) + "&site=" + r.site 
+r.get(e.server + "/brwext/tbres?union=" + encodeURIComponent(e.union) + "&url="
+more_link: "http://s.taobao.com/search?q=" + t.search.keywords + "&pid=" + t.search.union
+if (t.url.indexOf("u.gwdang.com") > -1) return t.url;
+
+zhitongche
+t && h.get(t).done(function(t) {
+zhitongche: e + "//t.readindex.com",

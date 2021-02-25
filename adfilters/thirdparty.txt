@@ -1,0 +1,8 @@
+[Adblock]
+! Checksum: 8mAxJYHv6S3yL38A20lejQ
+
+||static.xx.fbcdn.net$domain=~facebook.com
+||apis.google.com$third-party
+||platform.twitter.com$third-party
+||www.facebook.com$third-party
+||widget.weibo.com$third-party

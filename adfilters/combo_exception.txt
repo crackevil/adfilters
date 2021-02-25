@@ -1,0 +1,15 @@
+[Adblock]
+! Checksum: ZT89+3noSV8rpmgCmoiiIQ
+@@^g.alicdn.com/tb/tb-fp/$script
+@@^s.yimg.com/zz/combo^$script
+@@^tb1.bdstatic.com/??$script
+@@misc.360buyimg.com$script
+@@://s.fap.to/combine.php*
+@@://www.google.com/maps/_/js/*
+@@://s1.huffpost.com/assets/js.php^
+@@*.dpfile.com/combos^
+@@*.dpfile.com/concat^
+@@://s1.pan.bdstatic.com/yun-static/??
+@@://res.wx.qq.com/
+@@||static.mp.uc.cn/co?*
+@@||static.360buyimg.com
