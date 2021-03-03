@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: I1+AiCL/dQ35XkOkzsYitQ
+! Checksum: mvR9W29lVJZZWIoc2v0ypA
 ||5638.com
 ||909188.com
 ||189333.com
@@ -4088,5 +4088,20 @@
 ||fhrl2018.com
 ||moyazhenzhu.com
 ||reklamstore.com
-
-
+||xlog.jd.com
+||janapi.jd.com
+||q.qq.com
+||superad.cc
+||lsaeb.com
+||kscmt.cn
+||whzxpm.cn
+||greenere.cn
+||ad.keruyun.com
+||ad-static.keruyun.com
+||birthcaker.cn
+||bxsnews.com
+||dsp-x.jd.com
+||yunqingugm.com
+||mpush-api.aliyun.com
+||dm.pstatp.com
+||guannin.com
