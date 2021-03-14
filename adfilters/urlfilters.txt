@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: NXSKViW7A/rc65rHDiFdlw
+! Checksum: AqpejFornlmL2LTO7TO5Ag
 @@||player.cntv.cn
 *.adhere
 *.admin5.com/z/*
@@ -443,4 +443,4 @@ http://static.iqiyi.com/js/pingback/headerqa*.js
 ||hywly.com/ad/*
 */detroitchicago/*
 //res.qhupdate.com/360reader/*
-
+||m.douban.com/stat.html

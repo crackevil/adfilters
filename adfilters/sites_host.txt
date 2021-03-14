@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: mvR9W29lVJZZWIoc2v0ypA
+! Checksum: reEri8mH1ujUbVbCwYCvuw
 ||5638.com
 ||909188.com
 ||189333.com
@@ -2720,7 +2720,7 @@
 ||mstrlytcs.com
 ||mobilenations.com
 ||connect.facebook.net
-||graph.facebook.com
+!||graph.facebook.com       !it's api
 ||m2.ai
 ||fidelity-media.com
 ||browsiprod.com
@@ -3037,7 +3037,7 @@
 ||285680.com
 ||mtqys.com
 ||ltdnc.com
-||graph.instagram.com
+!||graph.instagram.com    !it's api
 ||aldwx.com
 ||ads.csdn.net
 ||img-ads.csdn.net
@@ -4105,3 +4105,15 @@
 ||mpush-api.aliyun.com
 ||dm.pstatp.com
 ||guannin.com
+||bdstatics.eastmoney.com
+||trustarc.com
+||dailimao.net
+||zhw666.cn
+||mmszxc.top
+||lhy1.xyz
+||bolimen.top
+||kanwby.com
+||events.jianshu.io
+||tr.jianshu.com
+
+
