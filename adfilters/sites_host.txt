@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: reEri8mH1ujUbVbCwYCvuw
+! Checksum: L+xR68mYCGQ54IIOcurPLg
 ||5638.com
 ||909188.com
 ||189333.com
@@ -4115,5 +4115,11 @@
 ||kanwby.com
 ||events.jianshu.io
 ||tr.jianshu.com
-
+||ctobsnssdk.com
+||sugar.zhihu.com
+||za.zuzuche.com
+||logger.zuzuche.com
+||frog.zuzuche.com
+||telemetry.tradingview.com
+||snowplow-pixel.tradingview.com
 
