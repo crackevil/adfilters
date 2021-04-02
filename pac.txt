@@ -705,6 +705,11 @@ var domains = {
   "readthedocs.io" :1,
   "rmbl.ws": 1,
   "onlyfans.com": 1,
+  "fbsbx.com": 1,
+  "ycombinator.com": 1,
+  "protonmail.com": 1,
+  "tiktokcdn.com": 1,
+  "tiktokv.com": 1,
   
 "google.ac": 1,
 "google.ad": 1,
