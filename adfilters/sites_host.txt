@@ -3209,7 +3209,7 @@
 ||siteimproveanalytics.com
 ||siteimprove.com
 ||dimensions.ai
-||fengkongcloud.com
+!||fengkongcloud.com    #captcha
 ||s.aolcdn.com
 ||3gm.com.cn
 ||aaa.sma.so
@@ -4143,3 +4143,19 @@
 ||mcs.snssdk.com
 ||i.snssdk.com
 ||ex.co
+||xtracloud.net
+||dkmedia.now.sh
+||mon.flyertea.com
+||in-page-push.com
+||betgorebysson.club
+||dutorterraom.com
+||playwrightglancing.com
+||bixinlive.com
+||ad-1258444056.cos-website.ap-nanjing.myqcloud.com
+||kldsam.com
+||qwupoq.com
+||pksanb.com
+||maidagu.com
+
+
+
