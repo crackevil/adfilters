@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: GDTFm/Etu9Ce34al4kqVEQ
+! Checksum: n6tx9w59V2RCYFdMzV668g
 ||5638.com
 ||909188.com
 ||189333.com
@@ -4143,7 +4143,6 @@
 ||mcs.snssdk.com
 ||i.snssdk.com
 ||ex.co
-||xtracloud.net
 ||dkmedia.now.sh
 ||mon.flyertea.com
 ||in-page-push.com
