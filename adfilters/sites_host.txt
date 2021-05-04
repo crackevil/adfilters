@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: LpitNBJ5Ouv5Ej+CBA+mzA
+! Checksum: Cwuek1UH3QMswALu7Gz4nA
 ||5638.com
 ||909188.com
 ||189333.com
@@ -3831,7 +3831,7 @@
 ||amdcopen.m.taobao.com
 ||juduoping.com
 ||tymcdn.com
-||funshion.com
+||stat.funshion.com    !funshion.com fengxing
 ||extlog.snssdk.com
 ||huowuhd.com
 ||qichetiemo.info
