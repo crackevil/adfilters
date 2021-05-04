@@ -713,6 +713,8 @@ var domains = {
   "yuyuangewh.com": 1,
   "0593666.com": 1,
   "v2ex.com": 1,
+  "wemp.app": 1,
+  "github-releases.githubusercontent.com": 1,
   
 "google.ac": 1,
 "google.ad": 1,

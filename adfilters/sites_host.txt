@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: n6tx9w59V2RCYFdMzV668g
+! Checksum: LpitNBJ5Ouv5Ej+CBA+mzA
 ||5638.com
 ||909188.com
 ||189333.com
@@ -4141,7 +4141,7 @@
 ||job.zuciwang.com
 ||ip.zuciwang.com
 ||mcs.snssdk.com
-||i.snssdk.com
+!||i.snssdk.com   !used by ixigua
 ||ex.co
 ||dkmedia.now.sh
 ||mon.flyertea.com
@@ -4209,6 +4209,17 @@
 ||fbih5report.3g.qq.com
 ||aegis.qq.com
 ||hysdkservice.g.mi.com
-
+||soso.wxnmh.com
+||click.ali213.net
+||pbmp.ali213.net
+||5h.com
+||fengyx.com
+||fuoo1.top
+||289.com
+||osdmc.cn
+||wmnvhai.com
+||bi-sensors.duxiaoman.com
+||datasink.dxmpay.com
+||tpns.tencent.com
 
 
