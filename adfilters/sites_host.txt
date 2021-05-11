@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: Cwuek1UH3QMswALu7Gz4nA
+! Checksum: UEyLX2ys/1rrFjeIfjLZzg
 ||5638.com
 ||909188.com
 ||189333.com
@@ -1554,7 +1554,6 @@
 ||steelhousemedia.com
 ||siftscience.com
 ||poptm.com
-||linkedin.com
 ||popin.cc
 ||ensighten.com
 ||8kele.com
@@ -2462,7 +2461,6 @@
 ||5125129.com
 ||jshbyn.com
 ||s04ece.cn
-||thefatherofsalmon.com
 ||bjedpt.com
 ||91.com
 ||woatb.com
@@ -2610,7 +2608,6 @@
 ||lfwork.cn
 ||heqinghuif.cn
 ||yixui.com
-||wanyx.com
 ||eyeota.net
 ||coinhive.com
 ||121.31.40.177
@@ -3269,7 +3266,6 @@
 ||qcri.org
 ||cexp.booking.com
 ||sc.qq.com
-||bokecc.com
 ||creatives.ftchinese.com
 ||gdeotzyvykupitrealny8.ru
 ||tips-board.ru
@@ -3784,12 +3780,11 @@
 ||appbaqend.com
 ||rayjump.com
 ||bidmachine.io
-||beacons.gcp.gvt2.com
 ||pochengweiyuan.com
 ||phpstudyimg.com
 ||wojiabaoye.com
 ||h41s.com
-||duxiaoman.com
+!||duxiaoman.com   !by baidu, not purely ad
 ||csp.snssdk.com
 ||ad.toutiao.com
 ||pgyer.com
@@ -3983,7 +3978,6 @@
 ||powerad.ai
 ||profusesupport.com
 ||brainlyads.co
-||apester.com
 ||lockerdomecdn.com
 ||partner.archive-it.org
 ||cachefly.net
@@ -4024,7 +4018,6 @@
 ||govhunan.cn
 ||thefatherofsalmon.com
 ||zztcapp.cn
-||gamevvip.com
 ||suning.fit
 ||xn--2qux23c9ziyrq.club
 ||zgdykeji.com
@@ -4037,12 +4030,6 @@
 ||gvt2.com
 ||sayhi.360.cn
 ||yunpro.cn
-||lymingzhu.cn
-||beiweigroup.com
-||nanerjia.com
-||ykauto.cn
-||fkjiadexing.com
-||zgdykeji.com
 ||wdxxx.top
 ||collector.githubapp.com
 ||tj.video.qq.com
@@ -4193,7 +4180,6 @@
 ||xlstat.izuiyou.com
 ||xladapi.izuiyou.com
 ||adsp.xunlei.com
-||getui.com
 ||hubspot.net
 ||hubspotusercontent20.net
 ||hsadspixel.net
@@ -4221,5 +4207,26 @@
 ||bi-sensors.duxiaoman.com
 ||datasink.dxmpay.com
 ||tpns.tencent.com
-
+||msg.qy.net
+||datax.baidu.com
+||xelements.cn
+||ckkc.cc
+||dianyingya.com
+||coolfoxoptics.com
+||yy4480qpgyy.com
+||wdymk.com
+||analytics.lbry.com
+||sensors.xeknow.com
+||dp.xiaoeknow.com
+||fereport.xiaoeknow.com
+||learnreport.xiaoeknow.com
+||coursereport.xiaoeknow.com
+||emdcadvertise.eastmoney.com
+||bat.bing.com
+||a.quora.com
+||q.quora.com
+||intercomcdn.com
+||intercom.io
+||hscollectedforms.net
+||hsforms.com
 

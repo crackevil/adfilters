@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: p4NdVpvkKsM1Y8AQX8NGRQ
+! Checksum: mi9gFlI3osqhQslcYuI4AQ
 ^wp-content/plugins/acurax-on-click-pop-under^
 ^wp-content/plugins/adrotate^
 ^wp-content/plugins/facebook-page-promoter-lightbox^
@@ -48,3 +48,4 @@
 ^wp-content/plugins/thirstyaffiliates^
 ^wp-content/plugins/optinmonster^
 ^wp-content/plugins/dfp-ads^
+^wp-content/plugins/popup-builder^
