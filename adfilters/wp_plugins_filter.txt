@@ -1,5 +1,7 @@
 [Adblock]
-! Checksum: mi9gFlI3osqhQslcYuI4AQ
+! Checksum: 62kn01AaYrO0eUePTMpTyw
+*/wp-stat/ad/*
+*/wp-stat/analytics/*
 ^wp-content/plugins/acurax-on-click-pop-under^
 ^wp-content/plugins/adrotate^
 ^wp-content/plugins/facebook-page-promoter-lightbox^
