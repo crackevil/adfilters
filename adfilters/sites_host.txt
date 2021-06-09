@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: mn+oRgXmyrpfTLjm3ea/8w
+! Checksum: j5uldtY8SogPp7bqzQ2D7g
 ||5638.com
 ||909188.com
 ||189333.com
@@ -3994,7 +3994,7 @@
 ||hurom365.cn
 ||ksxcxb.cn
 ||yu520o.top
-||jcbdfyy.cn
+!||jcbdfyy.cn   used by a movie site
 ||xjhjtz.cn
 ||ff9498.cn
 ||hhttm.top
@@ -4263,3 +4263,13 @@
 ||jp88888887.cn
 ||xfilecache.com
 ||woodpeckerlog.com
+||nuannuanqi.top
+||gongxifacai21.top
+||ztvx8.com
+||ofyouope.club
+||greenrecru.biz
+||dprograp.online
+||articismstre.fun
+
+
+
