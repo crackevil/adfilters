@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: 69y9iXdE8EqrMfiykXuJ+g
+! Checksum: hkkf8FahfDX/fpYokcNHJQ
 ||a.baidu.com
 ||app.baidu.com
 ||bs.baidu.com
@@ -81,3 +81,5 @@ baidu.com##a[href*="www.baidu.com/baidu.php"]
 ||fc1tn.baidu.com
 ||ada.baidu.com
 ||dlswbr.baidu.com
+||hector.baidu.com
+||hectorstatic.baidu.com
