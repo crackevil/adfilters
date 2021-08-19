@@ -719,6 +719,8 @@ var domains = {
   "lbry.tv": 1,
   "bitwave.tv": 1,
   "tgstat.com": 1,
+  "digitalocean.com": 1,
+  "xposed.info": 1,
   
 "google.ac": 1,
 "google.ad": 1,
