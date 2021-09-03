@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: TNzFzvJtfP/qiqpyVuRJZg
+! Checksum: es5lq3AlV+P4GVERxV9apw
 
 ! baidu
 ||a.baidu.com
@@ -85,6 +85,7 @@
 
 ! qq
 
+||tpns.tencent.com
 ||sensors.cloud.tencent.com
 ||ping.cloud.tencent.com
 ||report.edu.qq.com
@@ -239,7 +240,6 @@
 ||v.aty.sohu.com
 ||fpb.sohu.com
 ||assp.sohu.com
-||qpb.sohu.com
 ||qpb.sohu.com
 ||v2.sohu.com
 
@@ -4383,7 +4383,7 @@
 ||wmnvhai.com
 ||bi-sensors.duxiaoman.com
 ||datasink.dxmpay.com
-||tpns.tencent.com
+
 ||msg.qy.net
 ||datax.baidu.com
 ||xelements.cn
