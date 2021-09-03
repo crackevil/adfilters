@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: WHzO0tIJiwHeHjs1qqFUOA
+! Checksum: evJqZovknyqHxb+UouruAQ
 
 ! baidu
 ||a.baidu.com
@@ -3891,6 +3891,8 @@
 ||blueconic.net
 ||at1.doubanio.com
 ||at2.doubanio.com
+||at3.doubanio.com
+||at4.doubanio.com
 ||touch4.me
 ||2898.com
 ||tracking.epicgames.com
@@ -4625,3 +4627,7 @@
 ||shence.hupu.com
 ||static.fengkongcloud.com
 ||fp-it.fengkongcloud.com
+||data.liba.com
+||pyp.libaclub.com
+
+
