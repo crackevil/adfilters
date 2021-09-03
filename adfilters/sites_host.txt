@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: es5lq3AlV+P4GVERxV9apw
+! Checksum: WHzO0tIJiwHeHjs1qqFUOA
 
 ! baidu
 ||a.baidu.com
@@ -4617,4 +4617,11 @@
 ||kenxv.com
 ||zuciwang.com
 ||themoneytizer.com
-
+||collect.hupu.com
+||e-goblin.hupu.com
+||hermes.hupu.com
+||goblin.hupu.com
+||sjtjcn.com
+||shence.hupu.com
+||static.fengkongcloud.com
+||fp-it.fengkongcloud.com
