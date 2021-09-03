@@ -1,12 +1,11 @@
 [Adblock]
-! Checksum: DOiuZn1eWNq6o5JQEQJqMQ
+! Checksum: mmacCteYeKeVnIudypX2Tg
 @@://api.weibo.com/2/statuses/*$domain=weibodangan.com
 @@://api.weibo.com/2/statuses/*$domain=wbdacdn.com
 ||sjs.sinajs.cn$domain=weibodangan.com
 ||sjs.sinajs.cn$domain=wbdacdn.com
 ||weibo.com$domain=weibodangan.com
 ||weibo.com$domain=wbdacdn.com
-||biz.weibo.com
 weibo.com##[class^="WB_ad"]
 weibo.com##div[ad-data^="id=ads_"]
 weibo.com##div[class^="popular_buss"]
