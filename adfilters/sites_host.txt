@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: evJqZovknyqHxb+UouruAQ
+! Checksum: 9d0cRnhuyXeVSBDsy4g60Q
 
 ! baidu
 ||a.baidu.com
@@ -4629,5 +4629,50 @@
 ||fp-it.fengkongcloud.com
 ||data.liba.com
 ||pyp.libaclub.com
-
+||sensorstracking.wandafilm.com
+||youhaodongxi.com
+||track.weimob.com
+||ccc-x.jd.com
+||neptune.jd.com
+||wq.jd.com
+||xcxt.pinduoduo.com
+||fdc.tenpay.com
+||sensorsdata.benlai.com
+||tongji.qichacha.com
+||monitor.maoyan.com
+||analytics.yinxiang.com
+||ma-adx.ctrip.com
+||analytics.be.mi.com
+||th.pinduoduo.com
+||pmmtk.pinduoduo.com
+||fox.dian.so
+||smarket.dian.so
+||wosai-inc.com
+||adtrack.xiaojukeji.com
+||log.duozhuayu.com
+||zhls.qq.com
+||bdclouddns.com
+||report.idqqimg.com
+||hud.huazhu.com
+||dreport.meituan.net
+||prod-sit-logserver.heytea.com
+||dc.watsonsestore.com.cn
+||cbad.omni.watsonsestore.com.cn
+||shujupie.com
+||logger.qmai.cn
+||raven.xiaojukeji.com
+||linkflowtech.com
+||metrics.t3go.cn
+||sensors.nio.com
+||tingyun.com
+||sensors.bkchina.cn
+||dig.lianjia.com
+||adx.ke.com
+||scene.ke.com
+||exp-tas.com
+||api-tertrace.mwee.cn
+||clog.mwee.cn
+||stat.qunjielong.com
+||col.qunjielong.com
+||hmonitor.luckincoffee.co
 
