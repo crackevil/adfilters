@@ -280,6 +280,9 @@ var domains = {
   "getlantern.org": 1,
   "hkgolden.com": 1,
   "thisav.com": 1,
+  "youav.com": 1,
+  "twdvd.com": 1,
+  "dmm.co.jp": 1,
   "instagr.am": 1,
   "powerapple.com": 1,
   "sexinsex.net": 1,
@@ -721,6 +724,8 @@ var domains = {
   "tgstat.com": 1,
   "digitalocean.com": 1,
   "xposed.info": 1,
+  "newedu.gongxuanwang.com": 1,
+  "85tube.com": 1,
   
 "google.ac": 1,
 "google.ad": 1,

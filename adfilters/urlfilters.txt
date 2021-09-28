@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: B1H3COeG2hDg9+SQJAYU1Q
+! Checksum: AH731ZrwvsUC46tctuE5yQ
 @@||player.cntv.cn
 *.admin5.com/z/*
 *.bdimg.com/cms/*
@@ -246,6 +246,9 @@ woyaokanzhibo.com/js/AD.js
 woyaokanzhibo.com/js/AD_tv.js
 *//i.snssdk.com/log/*
 *.pstatp.com/goofy/log-sdk/*
+*/log-sdk/collect/*
+*/static/js/antiblock.js^
+*/adimg/*
 
 
 
