@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: hFiD1DVG4NoLfgnHWp11vQ
+! Checksum: zrm5PG+is8Vf95UOwzezwA
 
 ! baidu
 ||a.baidu.com
@@ -242,6 +242,20 @@
 ||assp.sohu.com
 ||qpb.sohu.com
 ||v2.sohu.com
+
+! toutiao
+||log3-misc-hl.amemv.com
+||rtlog3-applog-hl.amemv.com
+||log5-misc-hl.amemv.com
+||csp.snssdk.com
+||ad.toutiao.com
+||partner.toutiao.com
+||zhanzhang.toutiao.com
+||extlog.snssdk.com
+||mcs.snssdk.com
+!||i.snssdk.com   !used by ixigua
+||bds.snssdk.com
+||log.snssdk.com
 
 
 ||5638.com
@@ -3438,7 +3452,7 @@
 ||ub.fang.com
 ||jsub.fang.com
 ||sunrtb.com
-||partner.toutiao.com
+
 ||sjzfgw.cn
 ||analytics.tool.lu
 
@@ -3972,8 +3986,7 @@
 ||wojiabaoye.com
 ||h41s.com
 !||duxiaoman.com   !by baidu, not purely ad
-||csp.snssdk.com
-||ad.toutiao.com
+
 ||pgyer.com
 ||uqab.cn
 ||5599hr.pw
@@ -4014,7 +4027,7 @@
 ||juduoping.com
 ||tymcdn.com
 ||stat.funshion.com    !funshion.com fengxing
-||extlog.snssdk.com
+
 ||huowuhd.com
 ||qichetiemo.info
 ||6789.com
@@ -4307,8 +4320,7 @@
 ||i.zuciwang.com
 ||job.zuciwang.com
 ||ip.zuciwang.com
-||mcs.snssdk.com
-!||i.snssdk.com   !used by ixigua
+
 ||ex.co
 ||dkmedia.now.sh
 ||mon.flyertea.com
@@ -4354,7 +4366,7 @@
 ||pb10.sogou.com
 ||hhytrace.sogoucdn.com
 ||theta.sogoucdn.com
-||bds.snssdk.com
+
 ||dig.bdurl.net
 ||xinxiansk.com
 ||xlstat.izuiyou.com
@@ -4371,7 +4383,7 @@
 ||mermaid.ximalaya.com
 ||xdcs-collector.ximalaya.com
 ||adse.ximalaya.com
-||zhanzhang.toutiao.com
+
 
 ||hysdkservice.g.mi.com
 ||soso.wxnmh.com
@@ -4560,8 +4572,7 @@
 ||govshenzhen.cn
 ||suning.beer
 ||wdach.com
-||rtlog3-applog-hl.amemv.com
-||log5-misc-hl.amemv.com
+
 ||statwww2.kugou.com
 ||logwebs.kugou.com
 ||fxelk.kugou.com
@@ -4679,7 +4690,7 @@
 ||hmonitor.luckincoffee.co
 ||ads.muxiv.com
 
-||log.snssdk.com
+
 ||xiaoyuasan.xyz
 ||siawswa.info
 ||luntanx18.info
@@ -5656,7 +5667,7 @@
 ||displaydo.space
 ||checkmovies.uno
 ||plantedtvseries.fun
-
+||yglog.youguotv.com
 
 
 

@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: 9S5MdpnuoymCQEwcI5bSmQ
+! Checksum: fig/d5Viz7N5b9FemP8Lvw
 ##.ad1
 ##.ad2
 ##.ad_area
@@ -87,7 +87,7 @@ qq.com##table[id="picInPic"]
 t66y.com##div[class^="tips"]
 t66y.com##table[class="sptable"]
 tv.sohu.com##[data-pb-txid="pg_player_adgameplay"]
-twitter.com##div.promoted-tweet
+
 v.ifeng.com##div[class="trade"]
 ##[class^="adv_"]
 ##.adv1
@@ -110,7 +110,7 @@ youtube.com##div[class$="ads-container"]
 ##IMG#bottomad
 weibo.com##div.W_skin_banner
 pinterest.com##div.Nags
-twitter.com##div.promoted-account
+
 tumblr.com##div[data-sponsored='1']
 tumblr.com##div.likeable-ad
 tumblr.com##div.video-ad
@@ -142,4 +142,8 @@ pornhub.com##div.onesuch
 pornhub.com##none.onesuch
 zhihu.com##.Pc-word
 zhihu.com##.Banner-link
-twitter.com##div[data-testid="placementTracking"] div[data-testid="tweet"]
+
+twitter.com##div.promoted-tweet
+twitter.com##div[data-testid="placementTracking"] article[data-testid="tweet"]
+twitter.com##div.promoted-account
+
