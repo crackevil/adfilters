@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: GlpdraTgy5TNYsVzfehoqA
+! Checksum: NxFoyn4+R75PSIORPfXqUg
 @@||player.cntv.cn
 *.admin5.com/z/*
 *.bdimg.com/cms/*
@@ -250,5 +250,7 @@ woyaokanzhibo.com/js/AD_tv.js
 */static/js/antiblock.js^
 */adimg/*
 *://pan.baidu.com/rest/2.0/pcs/adx^
-
+^dropbox.com/log/ux_analytics
+||yandex.ru/clck/
+||yandex.ru/ads/
 
