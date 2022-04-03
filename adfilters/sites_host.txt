@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: x9yLhzEgTEEwfR8ykx8HEg
+! Checksum: QfzYDVycLxiJrHCqVDjd/Q
 
 ! baidu
 ||a.baidu.com
@@ -264,6 +264,14 @@
 ||bds.snssdk.com
 ||log.snssdk.com
 ||mon.snssdk.com
+||toblog.snssdk.com
+||sdfp.snssdk.com
+
+||api-access.pangolin-sdk-toutiao.com
+||log-api.pangolin-sdk-toutiao.com
+||pangolin.snssdk.com
+||sf1-be-pack.pglstatp-toutiao.com
+
 
 ||5638.com
 ||909188.com
@@ -4556,7 +4564,7 @@
 ||log.xiaozuowen.net
 ||xiaozuowen.net
 ||inyneo.com
-||thefatherofsalmon.com
+
 ||quickapp.cn
 ||vnmfnk.com
 ||da.mgtv.com
@@ -5761,8 +5769,41 @@
 ||paqpq.com
 ||gqcxbm.cn
 ||tv.ci
+||collector.github.com
+||ptlwm.com
+||raffal.site
+||ddaimg.com
+||sxyntb.com
+||zigqnx.com
+||kvemm.com
+||u0062.com
+||z6b9bu.com
+||kvezz.com
+||kveaa.com
+||kvecc.com
+||kveii.com
+||yh.133svip.com
+||ddosimgb2l4dnaf7c8gtpw9vk.com
+||xmmnsl.com
+||nbgyqz.com
+||rzlgt.com
+||3337357.com
+||kvhccc.top
+||kvhddd.top
+||acoossu.top
+||kvhss.top
+||kvhfff.top
+||kunpeng-sc.csdnimg.cn
+||kunpeng.csdn.net
+||liufeiyu.cn
+||fenkede.cn
+||jajjo.cn
+||oomll.cn
+||ttayy.cn
+||zhang-yu.top
 
-
+||sdk.open.talk.getui.com
+||cm-10-35.getui.com
 
 
 
