@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: QfzYDVycLxiJrHCqVDjd/Q
+! Checksum: GxLjzMeWQG3ISo6KJnc+dw
 
 ! baidu
 ||a.baidu.com
@@ -212,6 +212,7 @@
 ||googleadservices.com
 ||googlesyndication.com
 ||doubleclick.net
+||android-context-data.googleapis.com
 
 ! sohu
 
@@ -5805,6 +5806,22 @@
 ||sdk.open.talk.getui.com
 ||cm-10-35.getui.com
 
+||taisantech
+||ad.gt
+||narrativ.com
+||scarfsmash.com
+||cookiefirst.com
+||l.clarity.ms
+||data.microsoft.com
+||browser.pipe.aria.microsoft.com
+||img2.idongde.com
+||tongji.idongde.com
+||vlitag.com
+||mon.zijieapi.com
+||adsninja.ca
+||aloofvest.com
+
+||sbeacon.sina.com.cn
 
 
 

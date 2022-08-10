@@ -1,6 +1,12 @@
 
 var domains = {
   "githubassets.com": 1,
+  "rawgit.com": 1,
+  "github.com":1,
+  "github.io":1,
+  "github.blog": 1,
+  "gist.github.com": 1,
+  "githubusercontent.com": 1,
   "googleusercontent.com": 1,
   "wordpress.com": 1,
   "gstatic.com": 1,
@@ -331,7 +337,7 @@ var domains = {
   "twicial.com": 1,
   "tweetscontent.net": 1,
   "twibee.com": 1,
-  "rawgit.com": 1,
+  
   "rthk.hk": 1,
   "popyard.org": 1,
   "popyard.com": 1,
@@ -477,10 +483,7 @@ var domains = {
   "nyti.ms": 1,
   "chinagfw.org": 1,
   "w3schools.com": 1,
-  "github.com":1,
-  "github.io":1,
-  "github.blog": 1,
-  "gist.github.com": 1,
+  
   "wsj.com": 1,
   "wsj.net": 1,
   "bitsnoop.com": 1,
@@ -721,7 +724,7 @@ var domains = {
   "0593666.com": 1,
   "v2ex.com": 1,
   "wemp.app": 1,
-  "githubusercontent.com": 1,
+  "xiaomi.eu": 1,
   "odysee.com": 1,
   "lbry.tv": 1,
   "bitwave.tv": 1,
@@ -734,6 +737,10 @@ var domains = {
   "commonservice.io": 1,
   "bnbstatic.com": 1,
   "opensea.io": 1,
+  "getpocket.com": 1,
+  "okcoin.com": 1,
+  "washingtonpost.com": 1,
+  "linktr.ee": 1,
   
 "google.ac": 1,
 "google.ad": 1,
