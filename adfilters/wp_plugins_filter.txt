@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: RInTX2/nlfNM2G0MvDJD2Q
+! Checksum: 4yWkQfE5t2gUYAi2QOIt3w
 */wp-stat/ad/*
 */wp-stat/analytics/*
 ^wp-content/plugins/acurax-on-click-pop-under^
@@ -54,4 +54,4 @@
 ^wp-content/plugins/newspack-popups^
 ^sites/wpcentral.com/files/advagg_js^
 ^sites/wpcentral.com/files/googleanalytics^
-
+^wp-content/plugins/advanced-ads^

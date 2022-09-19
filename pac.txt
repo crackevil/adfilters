@@ -490,6 +490,7 @@ var domains = {
   "mobile01.com": 1,
   "googlesource.com": 1,
   "flickr.com": 1,
+  "staticflickr.com": 1,
   "dwnews.com": 1,
   "dwnews.net": 1,
   "cldr.unicode.org": 1,

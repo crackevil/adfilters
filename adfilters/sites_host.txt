@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: GxLjzMeWQG3ISo6KJnc+dw
+! Checksum: 0L6YqpmzNZFRe5cfNbW2Iw
 
 ! baidu
 ||a.baidu.com
@@ -203,6 +203,7 @@
 ||dw.iask.com.cn
 ||mwzbp.iask.com.cn
 
+
 ! google
 
 ||adservice.google.com
@@ -243,6 +244,10 @@
 ||assp.sohu.com
 ||qpb.sohu.com
 ||v2.sohu.com
+||cis.sohu.com
+||aty.sohu.com
+||qpb0.sohu.com
+||fpb0.sohu.com
 
 ! toutiao
 ||log1-misc-hl.amemv.com
@@ -5821,7 +5826,14 @@
 ||adsninja.ca
 ||aloofvest.com
 
-||sbeacon.sina.com.cn
-
-
+||4dex.io
+||selfishsnake.com
+||hystericalcloth.com
+||permutive.app
+||hbwrapper.com
+||t.flickr.com
+||bydata.com
+||redventures.io
+||apigee.net
+||juhuicloud.com
 
