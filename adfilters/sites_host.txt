@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: 0L6YqpmzNZFRe5cfNbW2Iw
+! Checksum: O1CXF9/NhtKaZNWpt3MKAA
 
 ! baidu
 ||a.baidu.com
@@ -272,6 +272,8 @@
 ||mon.snssdk.com
 ||toblog.snssdk.com
 ||sdfp.snssdk.com
+||mcs-bd.feishu.cn
+||slardar-bd.feishu.cn
 
 ||api-access.pangolin-sdk-toutiao.com
 ||log-api.pangolin-sdk-toutiao.com
@@ -5836,4 +5838,11 @@
 ||redventures.io
 ||apigee.net
 ||juhuicloud.com
+||simplewebanalysis.com
+||profitablegatetocontent.com
+||highperformancedisplayformat.com
+||memo.co
+||memoinsights.com
 
+||sentry-web.xunlei.com
+||pages03.net
