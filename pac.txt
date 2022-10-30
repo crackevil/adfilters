@@ -742,6 +742,7 @@ var domains = {
   "okcoin.com": 1,
   "washingtonpost.com": 1,
   "linktr.ee": 1,
+  "threadreaderapp.com": 1,
   
 "google.ac": 1,
 "google.ad": 1,
