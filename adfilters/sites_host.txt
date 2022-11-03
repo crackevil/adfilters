@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: qswoQ0PXcHDolsCThw1jOw
+! Checksum: JpMR01NEC6dXySGZNIAULQ
 
 ! baidu
 ||a.baidu.com
@@ -5849,4 +5849,6 @@
 ||pages03.net
 
 ||jnn-pa.googleapis.com
-
+||md.tvzhe.com
+||lianku.xin
+||dibaiweiai.com

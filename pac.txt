@@ -49,6 +49,7 @@ var domains = {
   "t66y.com": 1,
   "shadowsocks.org": 1,
   "xvideos.com": 1,
+  "xvideos-cdn.com": 1,
   "dropboxusercontent.com": 1,
   "dropboxstatic.com": 1,
   "dropbox.com": 1,

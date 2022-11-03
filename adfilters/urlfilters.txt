@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: bCfZ5np106ByoD5e9zraFg
+! Checksum: 84+aPXx2/D/FWYNYwAzzng
 @@||player.cntv.cn
 *.admin5.com/z/*
 *.bdimg.com/cms/*
@@ -258,3 +258,4 @@ woyaokanzhibo.com/js/AD_tv.js
 //www.washingtonpost.com/wp-stat/pb/prod/pmbl.txt
 //www.washingtonpost.com/subscribe/logging/logInfo
 //verify.snssdk.com/captcha/reportFrontend
+//mssdk.bytedance.com/web/report^
