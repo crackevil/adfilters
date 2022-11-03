@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: 84+aPXx2/D/FWYNYwAzzng
+! Checksum: UaEbm6R+AOOu54lPScYENw
 @@||player.cntv.cn
 *.admin5.com/z/*
 *.bdimg.com/cms/*
@@ -240,7 +240,7 @@ http://static.iqiyi.com/js/pingback/headerqa*.js
 //res.qhupdate.com/360reader/*
 ||m.douban.com/stat.html
 */detroitchicago/*.gif
-*://medium.com/_/*
+!*://medium.com/_/*
 woyaokanzhibo.com/js/index_adfloat.js
 woyaokanzhibo.com/js/AD.js
 woyaokanzhibo.com/js/AD_tv.js
