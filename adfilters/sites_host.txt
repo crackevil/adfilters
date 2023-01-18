@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: JpMR01NEC6dXySGZNIAULQ
+! Checksum: iU4rNTx6QHoW+Xwafli1mw
 
 ! baidu
 ||a.baidu.com
@@ -4537,7 +4537,8 @@
 ||brownfox.top
 ||cheeseshooter.top
 ||yijiafangzhi.cn
-||woozooo.com
+||statics.woozooo.com
+||hm.woozooo.com
 ||iscrv.com
 ||webcollects.kugou.com
 ||rtwebcollects.kugou.com
@@ -5852,3 +5853,15 @@
 ||md.tvzhe.com
 ||lianku.xin
 ||dibaiweiai.com
+||ct.pinterest.com
+||datadome.co
+||c783.fastcompany.com
+||knotch-cdn.com
+||knotch.it
+||buymeacoffee.com
+||ra.majorgeeks.com
+||mailmunch.co
+||getresponse.com
+||gr-cdn.com
+||rum.h5.weibo.cn
+||rxeosevsso.com

@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: UaEbm6R+AOOu54lPScYENw
+! Checksum: yQlKqOWcsqoO2wZ+HdPJ1A
 @@||player.cntv.cn
 *.admin5.com/z/*
 *.bdimg.com/cms/*
@@ -259,3 +259,10 @@ woyaokanzhibo.com/js/AD_tv.js
 //www.washingtonpost.com/subscribe/logging/logInfo
 //verify.snssdk.com/captcha/reportFrontend
 //mssdk.bytedance.com/web/report^
+
+//www.google.com/afs/ads/
+//www.google.com/adsense/
+
+//www.instagram.com/logging/
+//www.instagram.com/ajax/bz^
+//graph.instagram.com/logging_client_events
