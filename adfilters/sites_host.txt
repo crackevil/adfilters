@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: iU4rNTx6QHoW+Xwafli1mw
+! Checksum: kjyuLIzEF1jKsumsPzZLfA
 
 ! baidu
 ||a.baidu.com
@@ -2314,7 +2314,7 @@
 ||ad4.on.cc
 ||ati-host.net
 ||brand-display.com
-||upcdn.b0.upaiyun.com
+
 ||punwave.com
 ||monetate.net
 ||asianmedia.com
