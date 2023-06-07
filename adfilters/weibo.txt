@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: mmacCteYeKeVnIudypX2Tg
+! Checksum: xwjRY6JqHXupevaSptnJmQ
 @@://api.weibo.com/2/statuses/*$domain=weibodangan.com
 @@://api.weibo.com/2/statuses/*$domain=wbdacdn.com
 ||sjs.sinajs.cn$domain=weibodangan.com
@@ -23,6 +23,7 @@ weibo.com##div[id^="Pl_Core_RecommendFeed"]
 ://multimedia.api.weibo.com/2/multimedia/post_log.json
 ://multimedia.api.weibo.com/2/multimedia/user/play_history/report.json
 ||sso.sina.com.cn$domain=~weibo.com|~weibo.cn
+*//weibo.com/ajax/log/*
 
 /^https?:\/\/[a-z0-9]+\.sinaimg\.cn\/[a-z0-9]+\/0065w7B7/
 /^https?:\/\/[a-z0-9]+\.sinaimg\.cn\/[a-z0-9]+\/005JxCis/

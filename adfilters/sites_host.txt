@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: kjyuLIzEF1jKsumsPzZLfA
+! Checksum: +lI+C8WkoiWk75GKrxHYew
 
 ! baidu
 ||a.baidu.com
@@ -5865,3 +5865,12 @@
 ||gr-cdn.com
 ||rum.h5.weibo.cn
 ||rxeosevsso.com
+||xlivrdr.com
+||tapi.pureapk.com
+||svibeacon.onezapp.com
+||wwads.cn
+||bd3rd.ifeng.com
+||bdmap1.ifeng.com
+||9fum.ifeng.com
+||uww6.ifeng.com
+||bm7c.ifeng.com

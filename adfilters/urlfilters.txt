@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: yQlKqOWcsqoO2wZ+HdPJ1A
+! Checksum: MMkjdYzVc++XJQI4SkzoGA
 @@||player.cntv.cn
 *.admin5.com/z/*
 *.bdimg.com/cms/*
@@ -266,3 +266,4 @@ woyaokanzhibo.com/js/AD_tv.js
 //www.instagram.com/logging/
 //www.instagram.com/ajax/bz^
 //graph.instagram.com/logging_client_events
+*/aweme/v1/web/client/monitor/*
