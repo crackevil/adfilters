@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: vSl/Bi9aaw9ygqsmvpJ7xQ
+! Checksum: 5q43O9BHOafZWgXVnEp+1Q
 
 ! baidu
 ||a.baidu.com
@@ -270,6 +270,7 @@
 ||bds.snssdk.com
 ||log.snssdk.com
 ||mon.snssdk.com
+||pc-mon.zijieapi.com
 ||toblog.snssdk.com
 ||sdfp.snssdk.com
 ||mcs-bd.feishu.cn
@@ -5935,3 +5936,32 @@
 ||ezcgojaamg.com
 ||viki.io
 ||nitropay.com
+||sou58.com
+||kljslku.com
+||tamaegis.com
+||ev.csdn.net
+||kunyu.csdn.net
+||fclog.baidu.com
+||webmetrics.mayoclinic.org
+||medtargetsystem.com
+||lhmos.com
+||hcn.health
+||cdnads.geeksforgeeks.org
+||6sc.co
+||ocule.co.uk
+||c.relative.im
+||cs.relative.im
+||xaidc.com
+||ggcnzz.qqopen.wiki
+||hy1.qqopen.wiki
+||socket.wxopenapp.cn
+||outarticle.wxopenapp.cn
+||tracking.digitalocean.com
+||tktiee.cn
+||q211qv1oq.cn
+||llqsq.com
+||admamax.com
+||xwdsp.com
+||so.tianqistatic.com
+||yptqys.tianqistatic.com
+||admama.com
