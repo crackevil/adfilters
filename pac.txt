@@ -15,6 +15,7 @@ var domains = {
   "withgoogle.com": 1,
   "chrome.com": 1,
   "twitter.com": 1,
+  "x.com": 1,
   "ytimg.com": 1,
   "t.co": 1,
   "g.co": 1,
@@ -754,6 +755,10 @@ var domains = {
   "netlify.app": 1,
   "jsdelivr.net": 1,
   "visualstudio.com": 1,
+  "anthropic.com": 1,
+  "claude.ai": 1,
+  "huggingface.co": 1,
+  "codegpt.co": 1,
   
 "google.ac": 1,
 "google.ad": 1,

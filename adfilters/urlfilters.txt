@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: cKHbR2d8jS2kWD22ioGi/g
+! Checksum: +hNuKx66aKMYnjAib2UKnw
 @@||player.cntv.cn
 *.admin5.com/z/*
 *.bdimg.com/cms/*
@@ -269,3 +269,19 @@ woyaokanzhibo.com/js/AD_tv.js
 */aweme/v1/web/client/monitor/*
 //g.csdnimg.cn/asdf/
 //g.csdnimg.cn/common/csdn-report/
+//www.google.com/pagead/
+//www.youtube.com/pagead/
+//play.google.com/log
+//www.youtube.com/pcs/activeview
+//www.google.co.*/pagead/
+.youtube.com/api/stats/
+//www.youtube.com/ptracking
+.youtube.com/youtubei/v1/log_event
+.heidisql.com/xads.js
+.google.com/gsi/log
+.geeksforgeeks.org/js/loginModal
+//fccid.io/porpoiseant/
+//copyprogramming.com/porpoiseant/
+
+
+

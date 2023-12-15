@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: 5q43O9BHOafZWgXVnEp+1Q
+! Checksum: 6z5NbTNOU/+A7iDEIq2/fg
 
 ! baidu
 ||a.baidu.com
@@ -281,6 +281,19 @@
 ||pangolin.snssdk.com
 ||sf1-be-pack.pglstatp-toutiao.com
 
+! meituan dianping
+
+||analytics.meituan.net
+||itrip.meituan.com
+||hls.dianping.com
+||mapi.dianping.com
+||analytics.meituan.com
+||mlog.meituan.com
+||dreport.meituan.net
+||plx.meituan.com
+||lx.meituan.net
+||appsec-mobile.meituan.com
+||lx1.meituan.net
 
 ||5638.com
 ||909188.com
@@ -939,7 +952,7 @@
 ||hiido.com
 ||histats.com
 ||hitslink.com
-||hls.dianping.com
+
 ||hmp33.com
 ||holdata.cn
 ||hollywire.com
@@ -3225,8 +3238,7 @@
 ||track.storm.mg
 ||track.unidata.ai
 ||9to5maccom.disqus.com
-||analytics.meituan.net
-||itrip.meituan.com
+
 ||cnrfi.disqus.com
 ||tradcnrfi.disqus.com
 ||kagirl.cn
@@ -3370,9 +3382,8 @@
 ||kulebj.com
 ||d01.51yangsheng.com
 ||getui.com
-||analytics.meituan.com
-||mlog.meituan.com
-||mapi.dianping.com
+
+
 ||load.sumo.com
 ||eater.xiaoxiangbz.com
 ||nkscdn.com
@@ -4693,7 +4704,7 @@
 ||bdclouddns.com
 ||report.idqqimg.com
 ||hud.huazhu.com
-||dreport.meituan.net
+
 ||prod-sit-logserver.heytea.com
 ||dc.watsonsestore.com.cn
 ||cbad.omni.watsonsestore.com.cn
@@ -5965,3 +5976,13 @@
 ||so.tianqistatic.com
 ||yptqys.tianqistatic.com
 ||admama.com
+||twlcyc.cn
+||ibreader.com
+||tec73.com
+
+
+||advert-server.elecfans.com
+||www1.elecfans.com
+
+||browser-intake-datadoghq.com
+||ezoic.com
