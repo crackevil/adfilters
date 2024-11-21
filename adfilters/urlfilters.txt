@@ -282,6 +282,6 @@ woyaokanzhibo.com/js/AD_tv.js
 .geeksforgeeks.org/js/loginModal
 //fccid.io/porpoiseant/
 //copyprogramming.com/porpoiseant/
-
+/porpoiseant/*.js
 
 

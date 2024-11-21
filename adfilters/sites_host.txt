@@ -294,6 +294,22 @@
 ||lx.meituan.net
 ||appsec-mobile.meituan.com
 ||lx1.meituan.net
+||lx1.meituan.com
+||beauty-tx-hls.meituan.net
+||beauty-tx-flv.meituan.net
+||beauty-js-hls.meituan.net
+||beauty-js-flv.meituan.net
+||beauty-kuai-hls.meituan.net
+||beauty-kuai-flv.meituan.net
+||plx.meituan.com
+||lx0.meituan.net 
+||lx.meituan.net
+||lx0.meituan.com
+||lx1.meituan.com
+||lx.meituan.com
+
+
+
 
 ||5638.com
 ||909188.com
