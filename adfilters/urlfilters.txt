@@ -283,5 +283,9 @@ woyaokanzhibo.com/js/AD_tv.js
 //fccid.io/porpoiseant/
 //copyprogramming.com/porpoiseant/
 /porpoiseant/*.js
+/parsonsmaize/*.js
+
+/beardeddragon/*.js
+/tardisrocinante/*.js
 
 

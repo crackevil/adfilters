@@ -248,6 +248,9 @@
 ||aty.sohu.com
 ||qpb0.sohu.com
 ||fpb0.sohu.com
+||fpb1.sohu.com
+||odin.sohu.com
+||qpb1.sohu.com
 
 ! toutiao
 ||log1-misc-hl.amemv.com
@@ -281,6 +284,13 @@
 ||pangolin.snssdk.com
 ||sf1-be-pack.pglstatp-toutiao.com
 
+||mcs.zijieapi.com
+||mon.tiktokv.com
+||mcs-sg.tiktokv.com
+||sgali-mcs.byteoversea.com
+||mcs-va.tiktokv.com
+||mssdk-sg.tiktok.com
+
 ! meituan dianping
 
 ||analytics.meituan.net
@@ -301,6 +311,14 @@
 ||beauty-js-flv.meituan.net
 ||beauty-kuai-hls.meituan.net
 ||beauty-kuai-flv.meituan.net
+||beauty-kuai-flv-live.meituan.net
+||beauty-kuai-hls-live.meituan.net
+||beauty-hs-hls.meituan.net
+||beauty-hs-flv.meituan.net
+||beauty-hw-hls.meituan.net
+||beauty-hw-flv.meituan.net
+||beauty-hw-flv-live.meituan.net
+||beauty-hw-hls-live.meituan.net
 ||plx.meituan.com
 ||lx0.meituan.net 
 ||lx.meituan.net
@@ -6002,3 +6020,24 @@
 
 ||browser-intake-datadoghq.com
 ||ezoic.com
+
+||fouanalytics.com
+||logs.betterstack.com
+||t.betterstack.com
+||sibforms.com
+||rt.mediacorp.sg
+||effirst.com
+||ftwo-receiver.autohome.com.cn
+||ftwo-feedback.autohome.com.cn
+||live-stat.api.autohome.com.cn
+||p-vp.autohome.com.cn
+||x.autoimg.cn
+||journeymv.com
+||adsbymediavine.com
+||mediavine.com
+||pvnwap.zol.com.cn
+||grow.me
+||privacy-mgmt.com
+||onetrust.io
+||visualwebsiteoptimizer.com
+
