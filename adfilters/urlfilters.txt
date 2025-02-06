@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: yezlhb9pjJ5fYuJvPFVDeQ
+! Checksum: 9i7IabnLXOXknjzy9QywkQ
 @@||player.cntv.cn
 *.admin5.com/z/*
 *.bdimg.com/cms/*
