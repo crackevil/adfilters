@@ -179,7 +179,7 @@ http://static.iqiyi.com/js/pingback/headerqa*.js
 *://g.alicdn.com/alilog/*
 *://static.googles.com/adserver/*
 */public/static/cai/*
-|https://www.zhihu.com/api/v4/alter_banners/*
+//www.zhihu.com/api/v4/alter_banners/*
 *.360doc.com/ad/*
 *.360doc.com/ajax/clickStatics.*
 *.360doc.cn
@@ -287,5 +287,14 @@ woyaokanzhibo.com/js/AD_tv.js
 
 /beardeddragon/*.js
 /tardisrocinante/*.js
+
+//surirt.com/ad/*
+//surirt.com/warning.jpg
+
+*/_xa/ads^
+
+//www.bestialitysextaboo.net/pop.js
+
+//www.zhihu.com/sc-profiler
 
 
