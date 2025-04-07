@@ -214,6 +214,7 @@
 ||googlesyndication.com
 ||doubleclick.net
 ||android-context-data.googleapis.com
+||fundingchoicesmessages.google.com
 
 ! sohu
 
@@ -6123,4 +6124,20 @@
 ||pulseadnetwork.com
 ||favy.cam
 ||sweetadforu.cc
+||alibaba-inc.com
+||effirst.com
+||trasupr.com
+||holahupa.com
+||anewfeedliberty.com
+||chaseherbalpasty.com
+||magsrv.com
+||pemsrv.com
+||optad360.io
+||optad360.net
+||adxpremium.services
+||giscus.app
+||tzegilo.com
+||fleraprt.com
+||goomaphy.com
+||a.tool.lu
 
