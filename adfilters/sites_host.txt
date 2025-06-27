@@ -1,5 +1,5 @@
 [Adblock]
-! Checksum: WNy6GgGl4YBPXuA1yp1n5Q
+! Checksum: SigbYbN3StZKtsZcaWqTwg
 
 ! baidu
 ||a.baidu.com
