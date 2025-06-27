@@ -4700,6 +4700,7 @@
 ||kukuchuangxiang1.com
 ||count.cnblogs.com
 ||a1.cnblogs.com
+||visit.cnblogs.com
 ||cehbk.com
 ||kenxv.com
 ||zuciwang.com
@@ -6140,4 +6141,14 @@
 ||fleraprt.com
 ||goomaphy.com
 ||a.tool.lu
+||fourier.taobao.com
+||fourier.alibaba.com
+||fpbbdx1.bmcx.com
+||fpbbdx2.bmcx.com
+||appconsent.io
+||sportslocalmedia.com
+||slmads.com
+||sddan.com
+
+
 
